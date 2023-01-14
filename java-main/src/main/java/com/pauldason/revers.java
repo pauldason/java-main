@@ -6,6 +6,7 @@ public class revers {
     /**
      *
      * @param args
+     * liyu haokeai
      */
     public static void main(String[] args) {
         String a = "001";
